@@ -17,7 +17,7 @@ const Header = (props: Props) => {
         <h1 className="text-2xl font-semibold px-4">
           <Link to="/">Atul Tiwari</Link>
         </h1>
-        <h3 className="text-xl pt-1 pl-4  text-gray-300">
+        <h3 className="text-xl pt-1 pl-4  text-gray-300 ">
           <Link to="/projects">Projects</Link>
         </h3>
       </div>
