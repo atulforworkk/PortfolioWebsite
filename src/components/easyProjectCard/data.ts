@@ -1,6 +1,7 @@
 import star from "./star.jpg"
 import nike from ".//images/Nike.jpg"
 import diceGame from "./images/Dicegame.jpg"
+import accordion from "./images/Accordion.jpg"
 export const projects = [
     {
         title: "StarBuck Clone",
@@ -13,24 +14,24 @@ export const projects = [
         title: "HTML,CSS & Javascript",
         subtitle: "React and Python",
         description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo ",
+            "A simple Nike website clone build o HTML,CSS and javascript and mobile responsive website ",
         image: nike,
-        link: "https://reedbarger.com",
+        link: "https://nike-beta-seven.vercel.app/",
     },
     {
         title: "Dice Game ",
         subtitle: "React and tailwind  ",
         description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+            "A usual fun to play dice game ,Which you can play whenever you feel a bit bored ",
         image: diceGame,
         link: "https://dice-ochre.vercel.app/",
     },
     {
-        title: "Genesis Website clone ",
-        subtitle: "HTML,CSS & Javascript ",
+        title: "A simple Accordion ",
+        subtitle: "React and tailwind ",
         description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-        image: "./project-4.gif",
-        link: "https://pythonbootcamp.com",
+            "A simple Accordion made with react ,so it look more user Interactive and good on a website",
+        image: accordion,
+        link: "",
     },
 ];

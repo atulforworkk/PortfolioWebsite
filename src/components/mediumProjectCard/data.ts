@@ -15,13 +15,13 @@ export const projects = [
         description:
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo ",
         image: TourWebsite,
-        link: "https://reedbarger.com",
+        link: "",
     },
     {
         title: "Todo List  ",
         subtitle: "React and tailwind  ",
         description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+            "App  that allows users to create, manage, and track their tasks in a dynamic and user-friendly interface..",
         image: TodoList,
         link: "https://dice-ochre.vercel.app/",
     },
@@ -29,7 +29,7 @@ export const projects = [
         title: "Epic Todo App",
         subtitle: "React Hooks",
         description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+            "App  that allows users to create, manage, and track their tasks in a dynamic and user-friendly interface..",
         image: TodoList,
         link: "",
     },
