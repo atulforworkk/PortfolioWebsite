@@ -22,12 +22,14 @@ const Header = (props: Props) => {
         </h3>
       </div>
       <div className="px-6 py-2 hover:delay-200 hover:bg-green-500">
-        <button
-          className="flex"
-          onClick={() => scrollToSection("hire-me-section")}
-        >
-          Hire Me <ChevronRight />
-        </button>
+        <Link to="/">
+          <button
+            className="flex"
+            onClick={() => scrollToSection("hire-me-section")}
+          >
+            Hire Me <ChevronRight />
+          </button>
+        </Link>
       </div>
     </div>
   );

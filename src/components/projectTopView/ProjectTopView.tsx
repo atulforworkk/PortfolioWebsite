@@ -12,9 +12,9 @@ const ProjectTopView = (props: Props) => {
         viewBox="0 0 24 24"
         fill="none"
         stroke="currentColor"
-        stroke-width="1.5"
-        stroke-linecap="round"
-        stroke-linejoin="round"
+        strokeWidth="1.5"
+        strokeLinecap="round"
+        strokeLinejoin="round"
         className="lucide lucide-app-window "
       >
         <rect x="2" y="4" width="20" height="16" rx="2" />
