@@ -3,7 +3,7 @@ import { projects } from "./data";
 // import starbucks from "../../assets/images/star.jpg";
 type Props = {};
 
-const MediumProjectCard = (props: Props) => {
+const HardProjectCard = (props: Props) => {
   console.log(projects);
   return (
     <div className="">
@@ -45,4 +45,4 @@ const MediumProjectCard = (props: Props) => {
   );
 };
 
-export default MediumProjectCard;
+export default HardProjectCard;
